@@ -1,0 +1,2 @@
+#!/bin/bash
+./ri_map input/Water.csv input/Ash.csv input/CAS_Thresh.csv output/Summary.csv output/Detail.csv

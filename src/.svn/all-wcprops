@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/scattering/!svn/ver/1/trunk/src
+END
+FindDiameters.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/scattering/!svn/ver/1/trunk/src/FindDiameters.cpp
+END
+mie++.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/scattering/!svn/ver/4/trunk/src/mie++.cpp
+END
+miev0.f
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/scattering/!svn/ver/1/trunk/src/miev0.f
+END
+ErrPack.f
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/scattering/!svn/ver/1/trunk/src/ErrPack.f
+END
